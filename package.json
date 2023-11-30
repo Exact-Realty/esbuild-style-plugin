@@ -26,7 +26,7 @@
     "@types/less": "^3.0.3",
     "@types/sass": "^1.43.1",
     "@types/stylus": "^0.48.37",
-    "glob": "^8.0.1",
+    "glob": "^9.0.0",
     "postcss": "^8.4.12",
     "postcss-modules": "^4.3.1"
   },
